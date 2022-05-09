@@ -1,6 +1,6 @@
 # Yan Cui
 
-![](picture.png)
+![](picture.jpg)
 
 ## About Me
 I am a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou, Zhou in the Department of Statistical Sciences. I received my Ph.D. degree in School of Mathematics at Jilin University in December 2020.
