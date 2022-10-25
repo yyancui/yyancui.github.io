@@ -20,8 +20,8 @@ I am a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou,
 
 ## Work Experience
 * Visiting Research Assistant, March-April July-August 2018, Department of Statistics and Actuarial Science, The University of Hong Kong, Advisor: Wai Keung Li
-* Teaching Assistant, STA457 Time Aeries Analysis: September 2019 - April 2020; STA302 Methods of Data Analysis: July 2020 - August 2020; STA2530 Applied Time series Analysis: September 2022 - December 2022 Department of Statistical Sciences, University of Toronto
-* Teaching Assistant, Probability Theory and Mathematical Statistics: September 2017-January 2018, School of Mathematics, Jilin University, 
+* Teaching Assistant, STA457 Time Series Analysis: September 2019 - April 2020; STA302 Methods of Data Analysis: July 2020 - August 2020; STA2530 Applied Time series Analysis: September 2022 - December 2022 Department of Statistical Sciences, University of Toronto
+* Teaching Assistant, Probability Theory and Mathematical Statistics: September 2017-January 2018, School of Mathematics, Jilin University 
 
 ## Contact Information
 * Email: yyan.cui@mail.utoronto.ca
