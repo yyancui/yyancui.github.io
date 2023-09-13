@@ -1,7 +1,7 @@
 # Yan Cui
 
 ## About Me
-I am a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou, Zhou in the Department of Statistical Sciences. I received my Ph.D. degree in School of Mathematics at Jilin University in December 2020.
+I am a Postdoctoral Fellow at the University of Alberta, mentored by Prof. Bei Jiang in the Department of Mathematical and Statistical Sciences at University of Alberta and Prof Anne-Sophie Charest in the Department of Mathematics and Statistics at Université Laval. Before that, I was a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou Zhou in the Department of Statistical Sciences during 2022-2023. I received my Ph.D. degree in School of Mathematics at Jilin University in December 2020.
 
 ## Research Interests
 * Data privacy
