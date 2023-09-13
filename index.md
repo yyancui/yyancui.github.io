@@ -4,13 +4,14 @@
 I am a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou, Zhou in the Department of Statistical Sciences. I received my Ph.D. degree in School of Mathematics at Jilin University in December 2020.
 
 ## Research Interests
+* Data privacy
 * Functional time series
 * Non-parametric estimation and inference
 * Nonlinear and non-stationary time series
 * Change point problem
 
 ## Publications
-* Cui, Y., Yang, J. and Zhou, Z. (2022) State-domain change point detection for nonlinear time series regression. Journal of Econometrics, preprint.
+* Cui, Y., Yang, J. and Zhou, Z. (2023) State-domain change point detection for nonlinear time series regression. Journal of Econometrics, 234, 3-27.
 * Cui, Y., Levine, M. and Zhou, Z. (2021) Estimation and inference of time-varying auto-covariance under complex trend: A difference-based approach. Electronic Journal of Statistics, 15, 4264-4294.
 * Cui, Y., Li, Q. and Zhu, F. (2021). Modeling Z-valued time series based on new versions of the Skellam INGARCH model. Brazilian Journal of Probability and Statistics, 35, 292-314.
 * Mao, H., Zhu, F. and Cui, Y. (2020). A generalized mixture integer-valued GARCH model. Statistical Methods & Applications, 29, 527-552.
