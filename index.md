@@ -25,5 +25,5 @@ I am a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou,
 * Teaching Assistant, Probability Theory and Mathematical Statistics: September 2017-January 2018, School of Mathematics, Jilin University 
 
 ## Contact Information
-* Email: yyan.cui@mail.utoronto.ca
-* Office: Room 9179, Department of Statistical Sciences, 700 University Ave, Toronto, ON M5G 1X6
+* Email: cui@ualberta.ca
+* Office: CAB Room 440, Department of Mathematical and Statistical Sciences, 11324 89 Ave NW, Edmonton, AB T6G2J5.
