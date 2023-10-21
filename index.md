@@ -25,5 +25,5 @@ I am a Postdoctoral Fellow at the University of Alberta, mentored by Prof. Bei J
 * Teaching Assistant, Probability Theory and Mathematical Statistics: September 2017-January 2018, School of Mathematics, Jilin University 
 
 ## Contact Information
-* Email: cui@ualberta.ca
-* Office: CAB Room 440, Department of Mathematical and Statistical Sciences, 11324 89 Ave NW, Edmonton, AB T6G2J5.
+* Email: cui12@ualberta.ca
+* Office: CAB Room 440, Department of Mathematical and Statistical Sciences, Edmonton, AB, Canada, T6G2J5
