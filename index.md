@@ -1,13 +1,13 @@
 # Yan Cui
 
 ## About Me
-I am a Postdoctoral Fellow at the University of Alberta, mentored by Prof. Bei Jiang in the Department of Mathematical and Statistical Sciences at University of Alberta and Prof Anne-Sophie Charest in the Department of Mathematics and Statistics at Université Laval. Before that, I was a Postdoctoral Fellow at the University of Toronto, mentored by Prof. Zhou Zhou in the Department of Statistical Sciences during 2022-2023. I received my Ph.D. degree in School of Mathematics at Jilin University in December 2020.
+I am currently a visiting Assistant Professor in the Department of Mathematics and Statistics at Reed College. Before this, I was a Postdoctoral Fellow at the University of Alberta from September 2023 to August 2024, working with Professor Bei Jiang at the University of Alberta and Professor Anne-Sophie Charest at Université Laval. From March 2022 to August 2023 I was a Postdoctoral Fellow at the University of Toronto, mentored by Professor Zhou Zhou in the Department of Statistical Sciences. I completed my Ph.D. degree from School of Mathematics at Jilin University in December 2020.
 
 ## Research Interests
-* Data privacy
-* Functional time series
+* Functional time series analysis
 * Non-parametric estimation and inference
 * Nonlinear and non-stationary time series
+* Data privacy
 * Change point problem
 
 ## Publications
@@ -20,10 +20,11 @@ I am a Postdoctoral Fellow at the University of Alberta, mentored by Prof. Bei J
 * Cui Y. and Zhu, F. (2018) A new bivariate integer-valued GARCH model allowing for negative cross-correlation. TEST, 2, 428-452.
 
 ## Work Experience
+* Instructor, STAT361 Sampling Techniques, January 2024 - April 2024
 * Visiting Research Assistant, March-April July-August 2018, Department of Statistics and Actuarial Science, The University of Hong Kong, Advisor: Wai Keung Li
 * Teaching Assistant, STA457 Time Series Analysis: September 2019 - April 2020; STA302 Methods of Data Analysis: July 2020 - August 2020; STA2530 Applied Time series Analysis: September 2022 - December 2022 Department of Statistical Sciences, University of Toronto
 * Teaching Assistant, Probability Theory and Mathematical Statistics: September 2017-January 2018, School of Mathematics, Jilin University 
 
 ## Contact Information
-* Email: cui12@ualberta.ca
-* Office: CAB Room 440, Department of Mathematical and Statistical Sciences, Edmonton, AB, Canada, T6G2J5
+* Email: yanc@reed.edu
+* Office: Library 392, 3203 SE Woodstock Blvd, Portland, OR 97202, United States.
